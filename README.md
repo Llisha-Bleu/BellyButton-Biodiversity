@@ -13,7 +13,7 @@ Using knowledge of ;`JavaScript`, `Plotly`, and `D3.js`, a horizontal bar chart 
 The purpose of this project is to visualize the bacterial data for each volunteer. Specifically, volunteers should be able to identify the top 10 bacterial species in their belly buttons. That way, if Improbable Beef identifies a species as a candidate to manufacture synthetic beef, thevolunteers will be able to identify whether that species is found in their navel.
 
 ## Resources
-- **Webpage:** https://llisha-bleu.github.io/Bellybutton-Biodiversity/
+- **Webpage:** https://llisha-bleu.github.io/BellyButton-Biodiversity/
 - **Data Source:** `chartz.js`, `index.html`, `samples.json`, `image.jpg`
 - **Software:** `VS Code`, `Web Browser`, `Command-line interface`, `GitHub`
 
