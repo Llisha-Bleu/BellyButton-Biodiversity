@@ -1,5 +1,5 @@
 # Bellybutton-Biodiversity
-New project on Mission to Mars analysis. Adjusting the current web app.
+New project on Bellybutton-Biodiversity analysis. Adjusting the current web app.
 
 ## Project Overview
 Using knowledge of ;`JavaScript`, `Plotly`, and `D3.js`, a horizontal bar chart will be created to display the top 10 bacterial species (OTUs) when an individual’s ID is selected from the dropdown menu on the webpage. Ergo, this assignment consists of three technical deliverables. They are:
